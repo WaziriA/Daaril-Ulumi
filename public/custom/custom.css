@@ -1,0 +1,33 @@
+.waziri{
+    justify-content: center;
+    align-content: center;
+    margin-left: 440px;
+}
+.abdallah{
+    margin-left: 160px;
+}
+.login{
+    margin-top: 100px;
+}
+
+
+@media(max-width:880px){
+    .waziri{
+        margin-left: 180px;
+
+    }
+    .abdallah{
+        margin-left: 120px;
+    }
+    
+}
+
+@media(max-width:760px){
+    .waziri{
+        margin-left: 0px;
+
+    }
+    .hide-features{
+        display: none;
+    }
+}
